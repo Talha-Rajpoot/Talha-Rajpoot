@@ -1,7 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,40:2C5364,100:00C9FF
-&height=220&section=header&text=Muhammad%20Talha&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Mobile%20Developer%20%E2%80%94%20Flutter%20%C2%B7%20React%20Native&descSize=18&descAlignY=62" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,40:2C5364,100:00C9FF&height=220&section=header&text=Muhammad%20Talha&fontSize=64&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Mobile%20Developer%20%E2%80%94%20Flutter%20%C2%B7%20React%20Native&descSize=18&descAlignY=62" />
 
 ### 📱 Building Cross-Platform Mobile Apps That Ship to Production
 
