@@ -146,10 +146,10 @@ My focus is **shipping** — not just prototypes. Every app I build goes through
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=REPLACE_WITH_YOUR_ACTUAL_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=REPLACE_WITH_YOUR_ACTUAL_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Talha-Rajpoot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Rajpoot&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-<img src="https://streak-stats.demolab.com?user=REPLACE_WITH_YOUR_ACTUAL_USERNAME&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=Talha-Rajpoot&theme=tokyonight&hide_border=true" />
 
 </div>
 ---
