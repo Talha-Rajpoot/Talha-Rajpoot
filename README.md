@@ -9,8 +9,8 @@
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-2D7A6B?style=for-the-badge&logo=github&logoColor=white)](https://your-portfolio.com)
 [![Play Store](https://img.shields.io/badge/PLAY%20STORE-6FDA44?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer)
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen&style=flat-square&label=Profile+Views)
-![Follow](https://img.shields.io/github/followers/YOUR_USERNAME?label=Follow&style=flat-square&color=blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Talha-Rajpoot&color=brightgreen&style=flat-square&label=Profile+Views)
+![Follow](https://img.shields.io/github/followers/Talha-Rajpoot?label=Follow&style=flat-square&color=blue)
 
 </div>
 
