@@ -25,7 +25,7 @@ My focus is **shipping** — not just prototypes. Every app I build goes through
 - 🚀 **Currently:** Leading mobile app development at Metaviz AI
 - 🛠 **Stack:** Flutter • React Native • Node.js • Python FastAPI
 - 📦 **Shipped:** Multiple production apps live on Play Store & App Store
-- 🎓 **Education:** BS Information Technology, Punjab University (CGPA 3.52/4)
+- 🎓 **Education:** BS Information Technology, Punjab University (CGPA 3.5+/4)
 - 📍 **Based in:** Lahore, Pakistan
 
 ---
